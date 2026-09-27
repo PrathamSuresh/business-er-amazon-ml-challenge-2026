@@ -1,0 +1,11 @@
+dataset/
+output/
+reports/
+models/
+*.pkl
+*.zip
+.env
+__pycache__/
+.ipynb_checkpoints/
+er_work/
+smoke_*/
